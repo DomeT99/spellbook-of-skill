@@ -22,10 +22,15 @@ export default defineConfig({
           href: "https://github.com/DomeT99/spellbook-of-skill",
         },
       ],
+      favicon: "/favicon.ico",
       head: [
         {
           tag: "meta",
-          attrs: { name: "description", content: "A curated collection of development skills, tutorials and guides to level up your craft — from coding fundamentals to advanced techniques." },
+          attrs: {
+            name: "description",
+            content:
+              "A curated collection of development skills, tutorials and guides to level up your craft — from coding fundamentals to advanced techniques.",
+          },
         },
         {
           tag: "meta",
@@ -37,11 +42,18 @@ export default defineConfig({
         },
         {
           tag: "meta",
-          attrs: { property: "og:title", content: "SpellBook of Skill | Developer Skills & Guides" },
+          attrs: {
+            property: "og:title",
+            content: "SpellBook of Skill | Developer Skills & Guides",
+          },
         },
         {
           tag: "meta",
-          attrs: { property: "og:description", content: "A curated collection of development skills, tutorials and guides to level up your craft." },
+          attrs: {
+            property: "og:description",
+            content:
+              "A curated collection of development skills, tutorials and guides to level up your craft.",
+          },
         },
         {
           tag: "meta",
@@ -53,11 +65,18 @@ export default defineConfig({
         },
         {
           tag: "meta",
-          attrs: { name: "twitter:title", content: "SpellBook of Skill | Developer Skills & Guides" },
+          attrs: {
+            name: "twitter:title",
+            content: "SpellBook of Skill | Developer Skills & Guides",
+          },
         },
         {
           tag: "meta",
-          attrs: { name: "twitter:description", content: "A curated collection of development skills, tutorials and guides to level up your craft." },
+          attrs: {
+            name: "twitter:description",
+            content:
+              "A curated collection of development skills, tutorials and guides to level up your craft.",
+          },
         },
         {
           tag: "meta",
@@ -65,7 +84,11 @@ export default defineConfig({
         },
         {
           tag: "meta",
-          attrs: { name: "keywords", content: "developer skills, coding tutorials, programming guides, web development, software engineering" },
+          attrs: {
+            name: "keywords",
+            content:
+              "developer skills, coding tutorials, programming guides, web development, software engineering",
+          },
         },
       ],
     }),
