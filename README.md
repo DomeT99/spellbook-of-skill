@@ -30,7 +30,7 @@
 
 ### 1. **Browse the Documentation**
 
-Visit the [live documentation site](https://spellbook-of-skill.vercel.app) to explore all available guides.
+Visit the [live documentation site](https://spellbook-of-skill.netlify.app) to explore all available guides.
 
 Or clone and run locally:
 
