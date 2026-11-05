@@ -59,11 +59,19 @@ Adapt what you've learned to your own projects. Share your results with the comm
 
 ### Content Creation
 
-Write clear, structured technical articles for blogs and documentation:
+Write clear, structured technical articles for blogs and documentation, for example with the **Article Writing** skill:
 
 ```
 Write an article about [topic] in an informal tone using [language].
 Keep it concise and publish it on [platform].
+```
+
+### Frameworks
+
+Apply framework-specific structure and conventions to your projects, for example with the **Astro Expert**, **Bulma Expert**, **Nuxt Expert** and **Vue Expert** skills:
+
+```
+Explain the conventions and structure for [framework].
 ```
 
 ### More Categories Coming Soon
